@@ -8,6 +8,8 @@
 * UIImageView
 * UIImagePickerController
 * UIButton
+### .gif
+![stud](https://user-images.githubusercontent.com/59638518/125161092-fd41e000-e19d-11eb-8097-6f8bb937bde8.gif)
 ### Screenshots
 ![1](https://user-images.githubusercontent.com/59638518/125160991-69701400-e19d-11eb-9f90-d665ac78b13a.png)
 ![2](https://user-images.githubusercontent.com/59638518/125160992-6aa14100-e19d-11eb-91ca-77df666b9145.png)
